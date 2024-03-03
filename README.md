@@ -3,27 +3,27 @@
   <li>:open_file_folder: Semester 1
     <ul>
       <li>
-        <a href=""> 
+        <a> 
           Ethics and Academic Integrity. Scientific Research Methodology 
         </a>
       </li>
       <li>
-        <a href=""> 
+        <a href="https://github.com/AlexandraBledea/SE-Sem1-Requirements-Engineering"> 
           Requirements Engineering 
         </a>
       </li>
       <li>
-        <a href=""> 
+        <a href="https://github.com/AlexandraBledea/SE-Sem1-Formal-Methods"> 
           Formal Methods in Programming 
         </a>
       </li>
       <li>
-        <a href=""> 
+        <a> 
           Agile Software Development Methodologies
         </a>
       </li>
       <li>
-        <a href=""> 
+        <a href="https://github.com/AlexandraBledea/SE-Sem1-Programming-Paradigms"> 
           Programming Paradigms 
         </a>
       </li>
