@@ -38,7 +38,7 @@
       </li>
       <li>
         <a href=""> 
-          Proiectarea sistemelor software interactive 
+          Design of Interactive Software Systems 
         </a>
       </li>
       <li>
