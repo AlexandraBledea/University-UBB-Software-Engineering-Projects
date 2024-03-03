@@ -60,7 +60,7 @@
 <a href="http://www.cs.ubbcluj.ro">
 <p> Babeş-Bolyai University of Cluj Napoca </p>
 <p> Faculty of Mathematics and Computer Science </p>
-<p> Bachelor’s in Computer Science </p>
+<p> Master's in Software Engineering </p>
 </a>
 <br>
 
